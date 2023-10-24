@@ -1,6 +1,6 @@
 2023年秋季 rcore 训练营记录
 
-[TOC]
+@[TOC]
 
 # rcore-2023a-record
 
